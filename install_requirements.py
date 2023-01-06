@@ -37,6 +37,7 @@ packages = [
     "torchsde",
     "ninja",
     "triton",
+    "Pillow==9.4.0",
     "git+https://github.com/facebookresearch/xformers.git@main#egg=xformers",
 ]
 
